@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assembly: Loops and Variables</title>
+ 
 </head>
 <body>
     <h1>Assembly: Loops and Variables</h1>
